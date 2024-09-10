@@ -80,49 +80,48 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Output:
 ### Placement Data:
 
-![data](https://github.com/charumathiramesh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120204455/cba641d7-4b64-474a-9df3-f8047b4ddc21)
+![image](https://github.com/user-attachments/assets/d53219be-85d2-407c-a534-e54ff3844129)
 
 ### Salary Data:
 
-![salarydata](https://github.com/charumathiramesh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120204455/b69592e3-fb46-446d-87a4-60e8dabf45a1)
+![image](https://github.com/user-attachments/assets/ee997ec0-f6ce-4f95-9f6c-ce1ec4e5908e)
 
 ### Checking the null() function:
 
-
-![null](https://github.com/charumathiramesh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120204455/196a08f0-0571-40f2-bfdf-b6e1d2b4fa8f)
+![image](https://github.com/user-attachments/assets/3c2e07c3-946a-47ba-82dd-0bb343804274)
 
 ### Data Duplicate:
 
-
-![duplicate](https://github.com/charumathiramesh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120204455/3efb2a8c-6c60-4466-99b2-2c3c7b7a39b4)
+![image](https://github.com/user-attachments/assets/8c0fce2c-fae6-42ae-b30e-2379db7f296e)
 
 ### Print Data:
 
-![dataprint](https://github.com/charumathiramesh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120204455/37d05f23-2187-49d2-a871-7dbf5d7baca9)
-
+![image](https://github.com/user-attachments/assets/2d38399c-afba-43bc-a8af-457c5c56d28a)
 
 ### Data-Status:
 
-![datastatus](https://github.com/charumathiramesh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120204455/d0b24ebb-4d7a-4956-b6e5-b87f65ccbeeb)
+![image](https://github.com/user-attachments/assets/3cf4526d-f812-4576-9978-1775edef3fbc)
 
 ### Y_prediction array:
-![ypredict](https://github.com/charumathiramesh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120204455/81a5cd80-1fa0-48d8-a838-567b6e7a6676)
+
+![image](https://github.com/user-attachments/assets/3e70f566-d947-4623-96d0-84e648952863)
 
 ### Accuracy value:
-![accuracy](https://github.com/charumathiramesh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120204455/1ca21819-8baa-4312-aae8-1b094fe75ea6)
+
+![image](https://github.com/user-attachments/assets/66f77467-ff63-4469-80f5-51998637b44a)
 
 ### Confusion array:
 
-![confusion](https://github.com/charumathiramesh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120204455/675efabe-006d-463a-b5f0-0cc4354ca37a)
+![image](https://github.com/user-attachments/assets/4c2cb564-903d-4e46-9f6f-f3de9775cdb1)
 
 ### Classification Report:
 
-
-![cr](https://github.com/charumathiramesh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120204455/be3ab929-d71c-492a-8adc-9a054cf08983)
+![image](https://github.com/user-attachments/assets/edc7279a-632f-495a-b267-cc43cac83c5b)
 
 
 ### Prediction of LR:
-![lrpredict](https://github.com/charumathiramesh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120204455/295b82c5-385c-4832-9d92-282a651946cb)
+
+![image](https://github.com/user-attachments/assets/4260ac0f-1fa0-4b80-a5fb-b2e08a3c45dd)
 
 
 ## Result:
